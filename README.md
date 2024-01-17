@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dan! <br/><a href="https://github.com/Dan3091">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Python Developer</a>
+<h1>Hi, I'm Dan! <br/><a href="https://github.com/Dan3091"></a>
 
 <h2>👨🏻‍💻 Python Automation Projects:</h2>
 
