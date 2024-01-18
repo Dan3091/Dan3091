@@ -2,7 +2,7 @@
 
 <h2>👨🏻‍💻 Python Automation Projects:</h2>
 
-- [Project](https://)
+- [Project](https://https://github.com/Dan3091/SocialMediaZen)
 
 <h2>🎓 Certifications:</h2>
 
