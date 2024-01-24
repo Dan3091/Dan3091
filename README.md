@@ -3,6 +3,7 @@
 <h2>👨🏻‍💻 Python Automation Projects:</h2>
 
 - [SocialMediaZen](https://github.com/Dan3091/SocialMediaZen)
+- [VisioVault](https://github.com/Dan3091/VisioVault)
 
 <h2>🎓 Certifications:</h2>
 
