@@ -4,6 +4,7 @@
 
 - [SocialMediaZen](https://github.com/Dan3091/SocialMediaZen)
 - [VisioVault](https://github.com/Dan3091/VisioVault)
+- [PriceWatchPro](https://github.com/Dan3091/PriceWatchPro)
 
 <h2>🎓 Certifications:</h2>
 
