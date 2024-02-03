@@ -19,7 +19,7 @@
 
 
 [facebook]: https://www.facebook.com/daniel.spynu/
-[linkedin]: https://linkedin.com/
+[linkedin]: https://www.linkedin.com/in/dan-spynu-29b0a12b2/
 
 
 <!--
