@@ -11,9 +11,6 @@
 - [PCEP – Certified Entry-Level Python Programmer](https://verify.openedg.org/?id=7Hdi.1inv.1QYu)
 - [Google IT Automation with Python Professional Certificate](https://coursera.org/verify/professional-cert/4TNF62HE77UL)
 
-<h2>📺 Popular YouTube Videos</h2>
-- [Video](https://www.youtube.com/)
-
 
 <h2> 🤳 Connect with me:</h2>
 
