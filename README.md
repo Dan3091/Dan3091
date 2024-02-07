@@ -5,6 +5,7 @@
 - [SocialMediaZen](https://github.com/Dan3091/SocialMediaZen)
 - [VisioVault](https://github.com/Dan3091/VisioVault)
 - [PriceWatchPro](https://github.com/Dan3091/PriceWatchPro)
+- [CleanDesk-Organizer](https://github.com/Dan3091/CleanDesk-Organizer)
 
 <h2>🎓 Certifications:</h2>
 
