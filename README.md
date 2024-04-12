@@ -12,7 +12,7 @@
 
 - [PCEP – Certified Entry-Level Python Programmer](https://verify.openedg.org/?id=7Hdi.1inv.1QYu)
 - [Google IT Automation with Python Professional Certificate](https://coursera.org/verify/professional-cert/4TNF62HE77UL)
-
+- [Machine Learning Specialization](https://coursera.org/verify/specialization/MWPV7878HXUZ)
 
 <h2> 🤳 Connect with me:</h2>
 
